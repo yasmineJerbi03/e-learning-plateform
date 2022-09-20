@@ -1,0 +1,44 @@
+
+body
+{
+  background-color: #e5e8ed;
+}
+.container1 {
+  width: 11cm;
+  height: 10cm;
+  margin-top:0.5cm;
+  margin-left: 3%;
+  background-color: white;
+}
+.user
+{
+  width:4cm;
+  height: 4cm;
+  float: center;
+}
+td
+{
+  text-align: center;
+}
+table
+{
+  margin-top: 1cm;
+}
+.t
+{
+  width:7cm;
+  height:1cm;
+}
+.row1
+{
+  background-color: #B2B3B3;
+}
+#inf
+{
+  text-align: center;
+}
+.b
+{
+  text-align:center;
+  width:7cm;
+}

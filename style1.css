@@ -1,0 +1,53 @@
+#register
+{
+    width: 10cm;
+    height: 13.5cm;
+    border: solid gray;
+    border-width: 0.03cm;
+}
+#quest
+{
+    margin-left:2cm;
+    text-decoration:underline;
+}
+.titre
+{
+    font-family:candara;
+}
+#submit
+{
+    margin-top: -0.3cm;
+}
+#connexion
+{
+    width: 10cm;
+    height: 10cm;
+    border: solid gray;
+    border-width: 0.03cm;
+    margin-top:2.5cm;
+}
+.cours
+{
+    width:6cm;
+    height:6cm;
+}
+.cat
+{
+    margin:0.1cm;
+}
+#back
+{
+    background-color:#000080;
+}
+#b
+{
+    background-color: red;
+}
+.cours2
+{
+    width:8cm;
+}
+.bouton
+{
+    padding-left: 43%;
+}
